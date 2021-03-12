@@ -1,0 +1,62 @@
+{
+	"playlistName": "Lomogs Quake",
+	"scenarioList": [
+		{
+			"scenarioName": "Cata IC Fast Strafes",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Bounce 180",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Close FSEI Thin",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Bounce 180",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Ground Plaza NO UFO",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Bounce 180",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Air no UFO no SKYBOTS",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 180",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "close fast strafes easy invicible 10 min",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 180",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Ascended Tracking 90 Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 180",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Thin Aiming Long",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Bounce 180",
+			"playCount": 2
+		}
+	],
+	"isFavorite": true
+}

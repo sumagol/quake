@@ -57,6 +57,14 @@
 		{
 			"scenarioName": "Bounce 180",
 			"playCount": 2
+		},
+		{
+			"scenarioName": "lgc3 Reborn",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Bounce 180",
+			"playCount": 2
 		}
 	],
 	"isFavorite": true

@@ -1,6 +1,6 @@
 //Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Playlists <-- please delete before import ;)
 {
-	"playlistName": "Lomogs Quake",
+	"playlistName": "Lomogs Quake Fast",
 	"scenarioList": [
 		{
 			"scenarioName": "Cata IC Long Strafes",
@@ -8,27 +8,27 @@
 		},
 		{
 			"scenarioName": "Cata IC Fast Strafes",
-			"playCount": 4
+			"playCount": 2
 		},
 		{
 			"scenarioName": "Bounce 180",
-			"playCount": 2
+			"playCount": 1
 		},
 		{
 			"scenarioName": "Close FSEI Thin",
-			"playCount": 3
+			"playCount": 2
 		},
 		{
 			"scenarioName": "Bounce 180",
-			"playCount": 2
+			"playCount": 1
 		},
 		{
 			"scenarioName": "Ground Plaza NO UFO",
-			"playCount": 2
+			"playCount": 1
 		},
 		{
 			"scenarioName": "Bounce 180",
-			"playCount": 2
+			"playCount": 1
 		},
 		{
 			"scenarioName": "Air no UFO no SKYBOTS",
@@ -36,15 +36,15 @@
 		},
 		{
 			"scenarioName": "Bounce 180",
-			"playCount": 2
+			"playCount": 1
 		},
 		{
-			"scenarioName": "close fast strafes easy invicible 10 min",
+			"scenarioName": "close fast strafes easy invicible 5 min",
 			"playCount": 1
 		},
 		{
 			"scenarioName": "Bounce 180",
-			"playCount": 2
+			"playCount": 1
 		},
 		{
 			"scenarioName": "Ascended Tracking 90 Small",
@@ -52,23 +52,23 @@
 		},
 		{
 			"scenarioName": "Bounce 180",
-			"playCount": 2
+			"playCount": 1
 		},
 		{
 			"scenarioName": "Thin Aiming Long",
-			"playCount": 3
+			"playCount": 1
 		},
 		{
 			"scenarioName": "Bounce 180",
-			"playCount": 2
+			"playCount": 1
 		},
 		{
 			"scenarioName": "lgc3 Reborn",
-			"playCount": 3
+			"playCount": 2
 		},
 		{
 			"scenarioName": "Bounce 180",
-			"playCount": 2
+			"playCount": 1
 		}
 	],
 	"isFavorite": true

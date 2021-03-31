@@ -26,7 +26,7 @@
 			"playCount": 2
 		},
 		{
-			"scenarioName": "Bounce 180",
+			"scenarioName": "Bounce Long Range",
 			"playCount": 2
 		},
 		{
@@ -58,8 +58,8 @@
 			"playCount": 3
 		},
 		{
-			"scenarioName": "Bounce 180",
-			"playCount": 2
+			"scenarioName": "L180",
+			"playCount": 3
 		},
 		{
 			"scenarioName": "lgc3 Reborn",

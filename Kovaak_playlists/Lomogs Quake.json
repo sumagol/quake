@@ -2,12 +2,16 @@
 	"playlistName": "Lomogs Quake",
 	"scenarioList": [
 		{
-			"scenarioName": "Cata IC Long Strafes",
+			"scenarioName": "Thin Gauntlet",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Thin Gauntlet Shortstrafes",
 			"playCount": 1
 		},
 		{
 			"scenarioName": "Cata IC Fast Strafes",
-			"playCount": 4
+			"playCount": 2
 		},
 		{
 			"scenarioName": "Bounce 180",

@@ -1,78 +1,101 @@
 {
 	"playlistName": "Lomogs Quake",
+	"playlistId": 0,
+	"authorSteamId": "",
+	"authorName": "",
 	"scenarioList": [
 		{
-			"scenarioName": "Thin Gauntlet",
-			"playCount": 1
+			"scenario_Name": "MSS Insanity Raspberry",
+			"play_Count": 1
 		},
 		{
-			"scenarioName": "Thin Gauntlet Shortstrafes",
-			"playCount": 1
+			"scenario_Name": "ToonsClick rAim",
+			"play_Count": 1
 		},
 		{
-			"scenarioName": "Cata IC Fast Strafes",
-			"playCount": 2
+			"scenario_Name": "wide wall 2targets small",
+			"play_Count": 1
 		},
 		{
-			"scenarioName": "Bounce 180",
-			"playCount": 2
+			"scenario_Name": "Thin Gauntlet",
+			"play_Count": 1
 		},
 		{
-			"scenarioName": "Close FSEI Thin",
-			"playCount": 3
+			"scenario_Name": "Thin Gauntlet Shortstrafes",
+			"play_Count": 1
 		},
 		{
-			"scenarioName": "Bounce 180",
-			"playCount": 2
+			"scenario_Name": "Cata IC Fast Strafes",
+			"play_Count": 2
 		},
 		{
-			"scenarioName": "Ground Plaza NO UFO",
-			"playCount": 2
+			"scenario_Name": "Bounce 180",
+			"play_Count": 2
 		},
 		{
-			"scenarioName": "Bounce Long Range",
-			"playCount": 2
+			"scenario_Name": "Close FSEI Thin",
+			"play_Count": 3
 		},
 		{
-			"scenarioName": "Air no UFO no SKYBOTS",
-			"playCount": 1
+			"scenario_Name": "Bounce 180",
+			"play_Count": 2
 		},
 		{
-			"scenarioName": "Bounce 180",
-			"playCount": 2
+			"scenario_Name": "Bounce Long Range",
+			"play_Count": 2
 		},
 		{
-			"scenarioName": "close fast strafes easy invicible 10 min",
-			"playCount": 1
+			"scenario_Name": "Ground Plaza NO UFO",
+			"play_Count": 2
 		},
 		{
-			"scenarioName": "Bounce 180",
-			"playCount": 2
+			"scenario_Name": "Air no UFO no SKYBOTS",
+			"play_Count": 1
 		},
 		{
-			"scenarioName": "Ascended Tracking 90 Small",
-			"playCount": 1
+			"scenario_Name": "Bounce 180",
+			"play_Count": 2
 		},
 		{
-			"scenarioName": "Bounce 180",
-			"playCount": 2
+			"scenario_Name": "close fast strafes easy invicible 10 min",
+			"play_Count": 1
 		},
 		{
-			"scenarioName": "Thin Aiming Long",
-			"playCount": 3
+			"scenario_Name": "Bounce 180",
+			"play_Count": 2
 		},
 		{
-			"scenarioName": "L180",
-			"playCount": 3
+			"scenario_Name": "Ascended Tracking 90 Small",
+			"play_Count": 1
 		},
 		{
-			"scenarioName": "lgc3 Reborn",
-			"playCount": 3
+			"scenario_Name": "Bounce 180",
+			"play_Count": 2
 		},
 		{
-			"scenarioName": "Bounce 180",
-			"playCount": 2
+			"scenario_Name": "Thin Aiming Long",
+			"play_Count": 3
+		},
+		{
+			"scenario_Name": "L180",
+			"play_Count": 3
+		},
+		{
+			"scenario_Name": "lgc3 Reborn",
+			"play_Count": 3
+		},
+		{
+			"scenario_Name": "Bounce 180",
+			"play_Count": 2
+		},
+		{
+			"scenario_Name": "LG_1vs1_Humanized Bot",
+			"play_Count": 1
 		}
 	],
-	"isFavorite": true
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": "",
+	"version": 31
 }

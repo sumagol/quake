@@ -1,101 +1,110 @@
 {
 	"playlistName": "Lomogs Quake",
-	"playlistId": 0,
-	"authorSteamId": "",
-	"authorName": "",
+	"playlistId": 177385,
+	"authorSteamId": "76561198006534446",
+	"authorName": "sumagol",
 	"scenarioList": [
 		{
-			"scenario_Name": "MSS Insanity Raspberry",
+			"scenario_name": "ToonsClick rAim",
 			"play_Count": 1
 		},
 		{
-			"scenario_Name": "ToonsClick rAim",
+			"scenario_name": "wide wall 2targets small",
 			"play_Count": 1
 		},
 		{
-			"scenario_Name": "wide wall 2targets small",
+			"scenario_name": "Thin Gauntlet",
 			"play_Count": 1
 		},
 		{
-			"scenario_Name": "Thin Gauntlet",
+			"scenario_name": "Thin Gauntlet Shortstrafes",
 			"play_Count": 1
 		},
 		{
-			"scenario_Name": "Thin Gauntlet Shortstrafes",
-			"play_Count": 1
-		},
-		{
-			"scenario_Name": "Cata IC Fast Strafes",
+			"scenario_name": "Cata IC Fast Strafes",
 			"play_Count": 2
 		},
 		{
-			"scenario_Name": "Bounce 180",
+			"scenario_name": "Bounce 180",
 			"play_Count": 2
 		},
 		{
-			"scenario_Name": "Close FSEI Thin",
+			"scenario_name": "Close FSEI Thin",
 			"play_Count": 3
 		},
 		{
-			"scenario_Name": "Bounce 180",
+			"scenario_name": "Bounce 180",
 			"play_Count": 2
 		},
 		{
-			"scenario_Name": "Bounce Long Range",
+			"scenario_name": "Bounce Long Range",
 			"play_Count": 2
 		},
 		{
-			"scenario_Name": "Ground Plaza NO UFO",
+			"scenario_name": "Ground Plaza NO UFO",
 			"play_Count": 2
 		},
 		{
-			"scenario_Name": "Air no UFO no SKYBOTS",
+			"scenario_name": "Air no UFO no SKYBOTS",
 			"play_Count": 1
 		},
 		{
-			"scenario_Name": "Bounce 180",
+			"scenario_name": "Bounce 180",
 			"play_Count": 2
 		},
 		{
-			"scenario_Name": "close fast strafes easy invicible 10 min",
+			"scenario_name": "close fast strafes easy invicible 10 min",
 			"play_Count": 1
 		},
 		{
-			"scenario_Name": "Bounce 180",
+			"scenario_name": "Bounce 180",
 			"play_Count": 2
 		},
 		{
-			"scenario_Name": "Ascended Tracking 90 Small",
+			"scenario_name": "Ascended Tracking 90 Small",
 			"play_Count": 1
 		},
 		{
-			"scenario_Name": "Bounce 180",
+			"scenario_name": "Bounce 180",
 			"play_Count": 2
 		},
 		{
-			"scenario_Name": "Thin Aiming Long",
+			"scenario_name": "Thin Aiming Long",
 			"play_Count": 3
 		},
 		{
-			"scenario_Name": "L180",
+			"scenario_name": "L180",
 			"play_Count": 3
 		},
 		{
-			"scenario_Name": "lgc3 Reborn",
+			"scenario_name": "lgc3 Reborn",
 			"play_Count": 3
 		},
 		{
-			"scenario_Name": "Bounce 180",
+			"scenario_name": "Bounce 180",
 			"play_Count": 2
 		},
 		{
-			"scenario_Name": "LG_1vs1_Humanized Bot",
+			"scenario_name": "180 muscle memory (30s)",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT psalmTS Advanced",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Pokeball Frenzy Auto 1w2ts",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT BounceStrafe Diamond",
 			"play_Count": 1
 		}
 	],
 	"description": "",
 	"hasOfflineScenarios": false,
-	"hasEdited": true,
-	"shareCode": "",
-	"version": 31
+	"hasEdited": false,
+	"shareCode": "KovaaKsGriefingDiagonalOptic",
+	"version": 31,
+	"updated": 1688249321
 }

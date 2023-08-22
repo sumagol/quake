@@ -93,18 +93,14 @@
 			"play_Count": 1
 		},
 		{
-			"scenario_name": "Pokeball Frenzy Auto 1w2ts",
-			"play_Count": 1
-		},
-		{
 			"scenario_name": "VT BounceStrafe Diamond",
 			"play_Count": 1
 		}
 	],
 	"description": "",
 	"hasOfflineScenarios": false,
-	"hasEdited": false,
+	"hasEdited": true,
 	"shareCode": "KovaaKsGriefingDiagonalOptic",
 	"version": 31,
-	"updated": 1688249321
+	"updated": 1690919595
 }

@@ -1,0 +1,54 @@
+{
+	"playlistName": "Lomogs Quake fast 2",
+	"playlistId": 177385,
+	"authorSteamId": "76561198006534448",
+	"authorName": "sumagol",
+	"scenarioList": [
+		{
+			"scenario_name": "wide wall 2targets small",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Thin Gauntlet Shortstrafes",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "ToonsClick rAim",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Cata IC Fast Strafes",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "Bounce 180",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Close FSEI Thin",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "VT BounceStrafe Diamond",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Ascended Tracking 90 Small",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "lgc3 Reborn",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "180 muscle memory (30s)",
+			"play_Count": 1
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "KovaaKsGriefingDiagonalOptic",
+	"version": 31,
+	"updated": 1695844369
+}
